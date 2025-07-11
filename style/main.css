@@ -1,0 +1,136 @@
+
+/* MY Font */
+.inter-font-style {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.raleway-font-style{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+nav button a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.Navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+    
+   
+}
+/* logo design */
+.Logo{
+    color: #4E47FF;
+    font-size: 34px;
+}
+/* sign-up-decoration */
+.sign{
+    background-color: #4E47FF;
+    /* color: white; */
+    height: 58px;
+    width: 132px;
+    border-radius: 5px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 36px;
+
+    
+
+
+}
+/* stay focused button decoration */
+.stay{
+    background-color:#4E47FF ;
+    border-radius: 5px;
+    border: none;
+    padding: 12px 36px;
+    margin-top: 25px;
+   
+}
+.text-deco{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px 36px;
+    height: 34px;
+    width: 120px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.All{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 40px 135px 40px 135px;
+   
+}
+.banner-title{
+    height: 152px;
+    width: 902px;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+.head{
+    background-image: url('../Assets/Hero-bg.png');
+    height: 550px;
+    /* width: 300px; */
+    /* position: fixed; */
+
+}
+.action-Button{
+    background-color: #4E47FF;
+    width: 700;
+    height: 48px;
+    border: none;
+    border-radius: 5px;
+
+}
+.action-header{
+    font-size: 45px;
+    font-weight: bold;
+    height: 49px;
+    width: 517px;
+
+}
+.action-paragraph{
+    font-size: 24px;
+    font-weight: 400;
+    height: 60px;
+    width: 517px;
+    color: #252432;
+}
+.action-all{
+    display: flex;
+    justify-content: space-around;
+    margin: 116px 160px 0px 141px;
+}
+.action-image{
+    border: none;
+    height: 328px;
+    width: 403px;
+    border-radius: 48px;
+}
+.action-a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    height: 24px;
+    width: 157px;
+    padding: 12px 36px;
+    
+}
+
+
+    
